@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nome": "Refresco do Chaves",
+    "descricao": "Suco de Limão que parece tamarindo e tem gosto de morango",
+    "preco": 2.99,
+    "promocao": null,
+    "categoria": "BEBIDAS",
+    "isento": false
+  },
+  {
+    "id": 2,
+    "nome": "Sanduiche de presunto do Chaves",
+    "descricao": "Sanduíche de presunto simples, mas feito com muto  amor",
+    "preco": 3.99,
+    "promocao": 2.49,
+    "categoria": "PRATOS_PRINCIPAIS",
+    "isento": false
+  },
+  {
+    "id": 3,
+    "nome": "Torta de frango da dona Florinda",
+    "descricao": "Torta de frango com recheio cremoso e massa crocante",
+    "preco": 12.99,
+    "promocao": 10.99,
+    "categoria": "PRATOS_PRINCIPAIS",
+    "isento": false
+  },
+  {
+    "id": 4,
+    "nome": "Pipoca do Quico",
+    "descricao": "Balde de pipoca preparado com cariho pelo Quico",
+    "preco": 5.99,
+    "promocao": 3.99,
+    "categoria": "PRATOS_PRINCIPAIS",
+    "isento": true
+  },
+  {
+    "id": 5,
+    "nome": "Água de Jamaica",
+    "descricao": "Água aromatizada com hibisco e toque de hortelã",
+    "preco": 3.49,
+    "promocao": 2.0,
+    "categoria": "BEBIDAS",
+    "isento": false
+  },
+  {
+    "id": 6,
+    "nome": "Churros do Chaves",
+    "descricao": "Churros fresquinho com recheio de doce de leite",
+    "preco": 3.49,
+    "promocao": null,
+    "categoria": "SOBREMESAS",
+    "isento": true
+  },
+  {
+    "id": 6,
+    "nome": "Tacos de Carnitas",
+    "descricao": "Tacos recheados com carne tenra",
+    "preco": 25.9,
+    "promocao": null,
+    "categoria": "PRATOS_PRINCIPAIS",
+    "isento": true
+  }
+]
